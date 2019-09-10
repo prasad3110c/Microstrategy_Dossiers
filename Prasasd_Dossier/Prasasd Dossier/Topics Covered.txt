@@ -1,0 +1,28 @@
+Loading data to microstrategy
+Data wrangling (using functions on rows)
+Performing actions through Script editor in Data wrangling editor
+
+
+Add new chapter
+Add new page
+Creating visualization
+Adding new metric using functions and filters
+Create time attribute derived from Date attribute
+adding combo Charts, KPI, Grid, Google Timeline custom visualization, pie chart, heat map, Bubble Chart
+Adding image to title, social media shortcuts with HTML editor
+
+Metrics: Agreegate by Sum, Number format to dollar, threshold settings
+
+Other Reporting Insights
+Basic Filter
+Advance Sorting
+Replace Attributes
+Add Totals
+Drill Down Roll up
+Slice and dice
+swap axis
+
+
+Advanced Filters / Qualifications based on Expressions
+Adding Vizualization Filter
+Adding Environment connection
